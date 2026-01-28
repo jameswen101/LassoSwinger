@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/GitHub/LassoSwinger/LassoFP/Content/Maps/L_PuzzlePrototyping.umap",
+				"C:/GitHub/LassoSwinger/LassoFP/Content/Blueprints/BP_Gate.uasset",
+				"C:/GitHub/LassoSwinger/LassoFP/Content/Blueprints/BP_Lever.uasset"
+			]
+		}
+	]
+}

@@ -7,7 +7,21 @@
 			"files": [
 				"C:/GitHub/LassoSwinger/LassoFP/Content/Maps/L_PuzzlePrototyping.umap",
 				"C:/GitHub/LassoSwinger/LassoFP/Content/Blueprints/BP_Gate.uasset",
-				"C:/GitHub/LassoSwinger/LassoFP/Content/Blueprints/BP_Lever.uasset"
+				"C:/Github/LassoSwinger/LassoFP/Content/Blueprints/BP_Lever.uasset",
+				"C:/Github/LassoSwinger/LassoFP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/XP/E509SOO74M9IMMHZYBGHF0.uasset",
+				"C:/Github/LassoSwinger/LassoFP/Content/Assets/Armature_Pull.uasset",
+				"C:/Github/LassoSwinger/LassoFP/Content/Assets/Armature_Push.uasset",
+				"C:/Github/LassoSwinger/LassoFP/Content/Assets/Gear.uasset",
+				"C:/Github/LassoSwinger/LassoFP/Content/Assets/Gear_PhysicsAsset.uasset",
+				"C:/Github/LassoSwinger/LassoFP/Content/Assets/Gear_Skeleton.uasset",
+				"C:/Github/LassoSwinger/LassoFP/Content/Assets/Lever.uasset",
+				"C:/Github/LassoSwinger/LassoFP/Content/Assets/LeverLever_Pull.uasset",
+				"C:/Github/LassoSwinger/LassoFP/Content/Assets/LeverLever_Push.uasset",
+				"C:/Github/LassoSwinger/LassoFP/Content/Assets/Lever_PhysicsAsset.uasset",
+				"C:/Github/LassoSwinger/LassoFP/Content/Assets/Lever_Skeleton.uasset",
+				"C:/Github/LassoSwinger/LassoFP/Content/Assets/AB_Lever.uasset",
+				"C:/Github/LassoSwinger/LassoFP/Content/Blueprints/BPI_LeverInteract.uasset",
+				"C:/Github/LassoSwinger/LassoFP/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]

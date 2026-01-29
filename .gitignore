@@ -1,0 +1,23 @@
+# =====================
+# Unreal Engine
+# =====================
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# UE5 World Partition / Level generated data
+Content/ExternalActors/
+Content/ExternalObjects/
+Content/WorldPartition/
+
+# IDE / OS junk
+.vs/
+*.sln
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+.DS_Store
+Thumbs.db
+LassoSwing/*

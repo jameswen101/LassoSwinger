@@ -1,23 +1,51 @@
 # =====================
 # Unreal Engine
 # =====================
+
+# Build & generated folders (DO NOT COMMIT)
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
 
-# UE5 World Partition / Level generated data
-Content/ExternalActors/
-Content/ExternalObjects/
-Content/WorldPartition/
-
-# IDE / OS junk
-.vs/
+# Unreal auto-generated project files
 *.sln
+*.xcodeproj
+*.xcworkspace
 *.VC.db
 *.opensdf
 *.sdf
 *.suo
+
+# Unreal build artifacts
+*.exe
+*.dll
+*.lib
+*.app
+*.dylib
+*.so
+*.pdb
+*.obj
+
+# UE5 World Partition / Generated Level Data (DO NOT COMMIT)
+Content/ExternalActors/
+Content/ExternalObjects/
+Content/WorldPartition/
+
+
+# Unreal lighting build data
+*_BuiltData.uasset
+
+
+# =====================
+# IDE / OS junk
+# =====================
+.vs/
+.idea/
 .DS_Store
 Thumbs.db
-LassoSwing/*
+
+# =====================
+# Optional: Your custom folder
+# =====================
+LassoSwing/
